@@ -1,0 +1,7 @@
+{
+  "name": "krupabox/krupabox",
+  "description": "KrupaBOX Framework & Subset",
+  "require": {
+    "php": ">=5.4"
+  }
+}
